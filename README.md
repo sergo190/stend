@@ -2025,7 +2025,7 @@
                 bulletSpeed: 8,
                 color: '#e67e22',
                 autoFire: false,
-                explosionRadius: 85,
+                explosionRadius: 160,
                 explosionDamage: 200
             }
         };
